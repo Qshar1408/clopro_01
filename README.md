@@ -31,6 +31,12 @@ Resource Terraform для Yandex Cloud:
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table).
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance).
 
+
+### Решение:
+
+1. Создаем необходимые манифесты для Terraform:
+
+[Cloud-init.yaml](https://github.com/Qshar1408/clopro_01/blob/main/src/cloud-init.yaml)
 ---
 ### Задание 2. AWS* (задание со звёздочкой)
 
